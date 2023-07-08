@@ -1,0 +1,8 @@
+G:\MyProjects\Bellman-Ford algorithm\Bellman-Ford\obj\x86\Debug\BellmanFord.Properties.Resources.resources
+G:\MyProjects\Bellman-Ford algorithm\Bellman-Ford\obj\x86\Debug\Bellman-Ford.csproj.GenerateResource.cache
+G:\MyProjects\Bellman-Ford algorithm\Bellman-Ford\obj\x86\Debug\Bellman-Ford.csproj.CoreCompileInputs.cache
+G:\MyProjects\Bellman-Ford algorithm\Bellman-Ford\bin\Debug\Bellman-Ford.exe
+G:\MyProjects\Bellman-Ford algorithm\Bellman-Ford\bin\Debug\Bellman-Ford.pdb
+G:\MyProjects\Bellman-Ford algorithm\Bellman-Ford\obj\x86\Debug\Bellman-Ford.exe
+G:\MyProjects\Bellman-Ford algorithm\Bellman-Ford\obj\x86\Debug\Bellman-Ford.pdb
+G:\MyProjects\Bellman-Ford algorithm\Bellman-Ford\obj\x86\Debug\BellmanFord.Form1.resources
